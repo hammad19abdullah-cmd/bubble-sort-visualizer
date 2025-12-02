@@ -128,8 +128,7 @@ python app.py
 ---
 
 #  Hugging Face App Link  
-https://huggingface.co/spaces/abdullahh19/bubble-sort-visualizer/tree/main
-
+https://huggingface.co/spaces/abdullahh19/bubble-sort-visualizer
 ---
 
 # GitHub Repository Link  
@@ -142,4 +141,5 @@ https://github.com/hammad19abdullah-cmd/bubble-sort-visualizer.git
 **Abdullah Hammad**  
 
 CISC-121 - Sorting Algorithm Interactive App
+
 
